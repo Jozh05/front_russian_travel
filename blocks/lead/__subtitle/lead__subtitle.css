@@ -10,3 +10,20 @@
 
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .lead__subtitle {
+        font-size: 3.9vw;
+        max-width: 83.3vw;
+    }
+}
+
+@media (max-width: 425px) {
+    .lead__subtitle {
+        padding: 16px 0 0;
+
+        font-size: 5vw;
+        line-height: 1.25;
+        max-width: 90vw;
+    }
+}

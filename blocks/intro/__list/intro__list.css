@@ -9,3 +9,10 @@
     list-style: none;
 }
 
+@media (max-width: 425px) {
+    .intro__list {
+        max-width: 90vw;
+
+        font-size: 3.72vw;
+    }
+}
