@@ -1,0 +1,12 @@
+.header {
+    margin: 0;
+    padding-top: 28px;
+
+    max-height: 52px;
+
+    display: grid;
+    grid-template-columns: 1fr max-content max-content;
+
+    align-items: start;
+    gap: 0 18px;
+}
