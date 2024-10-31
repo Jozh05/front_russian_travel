@@ -15,6 +15,10 @@
     text-decoration-thickness: 2px;
 }
 
+.header__lang-link:hover {
+    opacity: .8;
+}
+
 
 @media screen and (max-width: 425px) {
     .header__lang-link {

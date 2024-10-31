@@ -18,12 +18,12 @@
 
 @media (max-width: 768px) {
     .places {
-        padding: 11.45vw 24px 0;
+        padding: 11.45vw 24px;
     }
 }
 
 @media (max-width: 425px) {
     .places {
-        padding: 20vw 0 0;
+        padding: 20vw 0;
     }
 }
